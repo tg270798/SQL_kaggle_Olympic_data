@@ -1,3 +1,4 @@
+
 --1
 SELECT COUNT(DISTINCT(GAMES)) FROM dbo.AthleteEvents
 
@@ -237,4 +238,5 @@ GROUP BY games, region
 ORDER BY games, region
 
 --16 Identify which country won the most gold, most silver and most bronze medals in each olympic games
+
 
